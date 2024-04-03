@@ -1,0 +1,26 @@
+[
+  {
+    "title": "HealthNexus",
+    "imageSrc": "projects/Healthnexus.png",
+    "description": "This a Ecommers-project online Medicine app Full stact project",
+    "skills": ["React", "Express", "Node","Redux"],
+    "demo": "https://github.com/Balavardhanreddy5872/Health_Nexus-2.0",
+    "source": "https://github.com/Balavardhanreddy5872/Health_Nexus-2.0"
+  },
+  {
+    "title": "Truecaller-Web3.0",
+    "imageSrc": "projects/Truecaller.png",
+    "description": "This Project is a Truecaller app using solidity , Block-chain",
+    "skills": ["React", "solidity","Block-chain"],
+    "demo": "https://true-caller-96bef.web.app/",
+    "source": "https://github.com/Balavardhanreddy5872/Truecaller_web3.0"
+  },
+  {
+    "title": "olympic managment system",
+    "imageSrc": "projects/project.png",
+    "description": "object oriented programming java application based project",
+    "skills": ["Java","MYSQL"],
+    "demo": "https://github.com/Balavardhanreddy5872/oops",
+    "source": "https://github.com/Balavardhanreddy5872/oops"
+  }
+]
