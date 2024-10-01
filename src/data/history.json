@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Full stack web-developer",
+    "organisation": "Healthmudraa",
+    "startDate": "July, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": ["Worked on component library",
+      "Helped create UI components"],
+    "imageSrc": "history/healthmudraa.png"
+  },
+  {
+    "role": "Front-End developer",
+    "organisation": "Exposys Data Labs",
+    "startDate": "May 2024",
+    "endDate": "June 2023",
+    "experiences": ["Worked on website development", "collabrated to work on designs"],
+    "imageSrc": "history/EXD.png"
+  }
+]

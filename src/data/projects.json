@@ -1,0 +1,30 @@
+[
+  {
+    "title": "HealthNexus",
+    "imageSrc": "projects/Healthnexus.png",
+    "description": "Ecommers-project online Medicine app MERN",
+    "skills": ["React", "Express", "Node","Redux"],
+    "demo": "https://health-nexus.vercel.app"
+  },
+  {
+    "title": "Truecaller-Web3.0",
+    "imageSrc": "projects/Truecaller.png",
+    "description": "This Project is a Truecaller app using solidity",
+    "skills": ["React", "solidity","Block-chain"],
+    "demo": "https://true-caller-96bef.web.app/"
+  },
+  {
+    "title": "olympic managment system",
+    "imageSrc": "projects/OOPS.png",
+    "description": "object oriented programme java application",
+    "skills": ["Java","MYSQL"],
+    "demo": "https://github.com/Balavardhanreddy5872/oops"
+  },
+  {
+    "title": "Daily Hunt News App",
+    "imageSrc": "projects/News.png",
+    "description": "News applicationn using Third-Party News-API inegration",
+    "skills": ["React","API"],
+    "demo": "https://github.com/Balavardhanreddy5872/DailyHunt-News"
+  }
+]
