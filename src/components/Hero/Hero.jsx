@@ -12,9 +12,7 @@ export const Hero = () => {
           I'm proficient in both front-end and back-end development, with experience in React and NodeJS. Feel free to reach out if you'd like to discuss further!
         </p>
 
-        <a href="./resume.pdf" download className={styles.contactBtn}>
-          Download CV
-        </a>
+      <a href="#contact" className={styles.contactBtn}>Contact me</a>
 
       </div>
       <img

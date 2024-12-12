@@ -26,5 +26,33 @@
     "description": "News applicationn using Third-Party News-API inegration",
     "skills": ["React","API"],
     "demo": "https://github.com/Balavardhanreddy5872/DailyHunt-News"
+  },
+  {
+    "title": "Wikipedia-Based document ranking",
+    "imageSrc": "projects/WPD.jpg",
+    "description": "Ranks the documents of Wikipedia in Tf-Idf order",
+    "skills": ["Web-scraping","Data Analysis"],
+    "demo": "https://github.com/Balavardhanreddy5872/Wikipedia-based-document-Ranking"
+  },
+  {
+    "title": "Movie Recommender System",
+    "imageSrc": "projects/Movie.jpg",
+    "description": "Recommend movies based on User Search",
+    "skills": ["Python","Data Analysis"],
+    "demo": "https://github.com/Balavardhanreddy5872/Movie_recommender_system"
+  },
+  {
+    "title": "Youtube-clone",
+    "imageSrc": "projects/Youtube.png",
+    "description": "A wedsite similar to Youtube for user, Own accounts, Subscripitions",
+    "skills": ["React","Fire Base","API"],
+    "demo": "https://github.com/Balavardhanreddy5872/Youtube"
+  },
+  {
+    "title": "React Blog App",
+    "imageSrc": "projects/Blog.png",
+    "description": "Users can create their personal b logs and update them",
+    "skills": ["React","Authentication"],
+    "demo": "https://github.com/Balavardhanreddy5872/ReactBlogApp"
   }
 ]
